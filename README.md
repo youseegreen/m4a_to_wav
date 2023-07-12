@@ -4,7 +4,7 @@ Windowsのサウンドレコーダーで録音するとm4a形式で保存され�
 
 ## 環境構築
 - python (3以上なら動くはず)
-- ffmpeg (https://github.com/BtbN/FFmpeg-Builds/releasesからダウンロードしてbinにパスを通しておく、ffmpeg -versionが通ればOK)
+- ffmpeg (https://github.com/BtbN/FFmpeg-Builds/releases からダウンロードしてbinにパスを通しておく、ffmpeg -versionが通ればOK)
 - pydub (mp3 -> wav変換に使用)
 - このリポジトリをクローン
 
